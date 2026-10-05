@@ -1,0 +1,12 @@
+# Office lock files
+~$*
+
+# Power BI temp / backup files
+*.pbix.tmp
+*.pbix.bak
+.pbi/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
