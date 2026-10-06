@@ -14,7 +14,9 @@ The lab book uses `C:\Coursefiles\QAPBIDESK\labNN\`. If your files are somewhere
 
 Lab 9 Exercise 3 renames `RegionManagers.txt`. Clean copies are in `lab09/Copies of Original Files`.
 
-Labs 11 and 16 have no folder here: use the files on your lab machine.
+**Lab 11 (DAX):** `lab11/QAPBID Lab 11 Start.pbix` is the finished Lab 10 file, which is where Lab 11 starts. Copy the formulas from `lab11/Code.txt`, not the PDF. The finished Lab 11 is `lab12/QAPBID Lab 12 Start.pbix`. See also `DAX_Guide.md`.
+
+Lab 16 has no folder here: use the files on your lab machine.
 
 ## Data storytelling
 - `QuantitativeData.xlsx`, `SampleReportXL.xlsx` - Day 2 exercises
