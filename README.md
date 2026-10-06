@@ -19,7 +19,7 @@ Lab 9 Exercise 3 renames `RegionManagers.txt`. Clean copies are in `lab09/Copies
 Lab 16 has no folder here: use the files on your lab machine.
 
 ## Data storytelling
-- `Data Storytelling Workbook.pdf` - the course workbook: the detail behind each module, and the review questions to write up.
+- `DG_01_Workbook_ASDXDDL8M7.pdf` - the course workbook: the detail behind each module, and the review questions to write up.
   Module 3 exercise: the workbook prints `=C2*D3`. Use `=C2*D2`.
 - `QuantitativeData.xlsx`, `SampleReportXL.xlsx` - Day 2 exercises
 - PDFs - reading, references and activities
